@@ -18,3 +18,5 @@ def say_hello(name=None, age=None, var=None):
     print(name)
     print("xiaoming liale ")
 
+    print("又修复了")
+
