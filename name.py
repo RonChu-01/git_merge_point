@@ -2,21 +2,20 @@
 # Description :
 
 
-def say_hello(name=None, age=None, var=None):
+def say_hello(name=None, age=None, fix=None, sex=None):
     """ 测试方法 """
 
     name = name
 
     age = age
 
-    branch = "xiaoming"
+    branch = "fixture"
 
-    desc = "this is xiaoming branch content. so let me see."
+    desc = "this is fixture branch content. so let me see."
 
-    tag = "小明已经在开发了"
-
-    print(name)
-    print("xiaoming liale ")
+    tag = "fixture"
 
     print("又修复了")
+
+    print("laile ")
 
