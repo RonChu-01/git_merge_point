@@ -15,3 +15,6 @@ def say_hello(name=None, age=None):
 
     tag = "小明已经在开发了"
 
+    print(name)
+    print("xiaoming liale ")
+
