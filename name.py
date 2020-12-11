@@ -2,7 +2,7 @@
 # Description :
 
 
-def say_hello(name=None, age=None):
+def say_hello(name=None, age=None, var=None):
     """ 测试方法 """
 
     name = name
